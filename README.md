@@ -16,6 +16,11 @@ Güncelle' ye bastığımızda kişinin telefon numarasını veya ismi gibi öze
 
 Sil' e bastığımızda tıklanan kişi kayıt'tan silinecek.
 
+İsmin üstüne tıklandığında aşağıda göründüğü gibi Kişi Detayını gösteren sayfa açılacak.
+
+<img width="438" alt="Ekran Resmi 2022-05-02 22 51 00" src="https://user-images.githubusercontent.com/98653691/166315817-0172edac-3e22-40fb-b29b-7a0871306ebd.png">
+
+
 
 
 
